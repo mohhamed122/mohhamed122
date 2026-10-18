@@ -7,8 +7,7 @@
   ---
 
   [![GitHub followers](https://img.shields.io/github/followers/mohhamed122?style=for-the-badge&logo=github&color=6e5494)](https://github.com/mohhamed122)
-  [![Views](https://komarev.com/ghpvc/?username=mohhamed122&color=blueviolet&style=for-the-badge)](https://github.com/mohhamed122)
-
+[![Views](https://komarev.com/ghpvc/?username=mohhamed122&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge)](https://github.com/mohhamed122)
 </div>
 
 <br>
